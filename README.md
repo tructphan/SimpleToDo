@@ -25,8 +25,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+1. successfully add and remove items from the todo list within the app
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough 1' width='' alt='Video Walkthrough 1' />
+
+2.persist todo items and retrieve them properly on app restart
+<img src='https://media.giphy.com/media/CFOlCXLvrBN6U3kDSm/giphy.gif' title='Video Walkthrough 2' width='' alt='Video Walkthrough 2' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
